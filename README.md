@@ -1,3 +1,9 @@
+# Gleap Next.js App Router Example
+
+Next.js 13 App Router example showing client-side Gleap SDK initialization for customer support, live chat and feedback.
+
+[Integration documentation](https://docs.gleap.ai/documentation/javascript/README) · [Gleap](https://www.gleap.ai)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
